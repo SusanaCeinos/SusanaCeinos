@@ -1,4 +1,12 @@
 # BRUNEL SUMMER PROJECT
+
+##H19
+
+H19 is a long non codding RNA (lncRNA) that is inheritade unevenly from mother or father, most commonly from the mother side(Ghafouri-Fard, Esmaeili and Taheri, 2020)
+
+##Human H19 sequence
+
+To get the the human sequence I searched for it on RNA central where I could download the RNA sequence and I put it through blast to be able to see the sequence aligned with its base pairs
 ```R 
 >H19:Homo-sapiens Chromosome 11: 1,995,176-1,997,875
 
@@ -335,7 +343,10 @@ Query  2281  ACAGTCAT  2288
 Sbjct  2281  ACAGTCAT  2288
 ```
 
+
 # Bedfile H19
+
+To create the bedfile I checked the details on ensembl and created a table with them.
 _____________________________________________________________________________
 | Chromosome | start     | end       | name     | score              | strand  |
 |------------|-----------|-----------|----------|--------------------|---------|
@@ -607,3 +618,8 @@ EMBOSS_001      2287 AU--------------   2288
 #---------------------------------------
 
 ```
+
+
+Reference
+
+-Ghafouri-Fard, S., Esmaeili, M. and Taheri, M., 2020. H19 lncRNA: Roles in tumorigenesis. Biomedicine & Pharmacotherapy, 123, p.109774.
