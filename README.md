@@ -334,3 +334,8 @@ Query  2281  ACAGTCAT  2288
              ||||||||
 Sbjct  2281  ACAGTCAT  2288
 ```
+
+# Bedtools sorted
+
+$ Bedtools intersect \
+      -
