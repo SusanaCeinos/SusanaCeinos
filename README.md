@@ -345,7 +345,10 @@ _____________________________________________________________________________
 
 # 2D MFE STRUCTURE PREDICTION
 
-## Human H19 2D Structure prediction
+## Homosapiens H19 2D Structure prediction
 
 ![image](https://user-images.githubusercontent.com/87019006/125069637-dfe21880-e0ae-11eb-8304-6b6c88a653a8.png)
 
+## Mus musculus H19 2D Structure prediction 
+
+![image](https://user-images.githubusercontent.com/87019006/125070433-da390280-e0af-11eb-944f-43d1c2e16c1a.png)
